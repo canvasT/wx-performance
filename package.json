@@ -1,6 +1,6 @@
 {
   "name": "wx-performance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "微信小程序测速耗时计算SDK",
   "main": "index.js",
   "scripts": {
