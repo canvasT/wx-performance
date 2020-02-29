@@ -1,0 +1,24 @@
+{
+  "name": "wx-performance",
+  "version": "1.0.0-beta.1",
+  "description": "微信小程序测速耗时计算SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canvasT/wx-performance.git"
+  },
+  "keywords": [
+    "wx",
+    "wechat",
+    "performance"
+  ],
+  "author": "fengtaotao082913@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canvasT/wx-performance/issues"
+  },
+  "homepage": "https://github.com/canvasT/wx-performance#readme"
+}
