@@ -44,6 +44,6 @@ function report(pfmId, cost){
   }
 }
 
-export default {
+module.exports = {
   startRecord
 }
